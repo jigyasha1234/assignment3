@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+    padding: 70px;
+    border: 1px solid #1e3607;
+    background-color: rgb(209, 233, 72);
+}
+.table1{
+    height: 70px;
+}
+img{
+    width: 50%;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
